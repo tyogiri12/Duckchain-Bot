@@ -48,6 +48,8 @@ Before installing and running this project, make sure you have the following pre
 3. Install the necessary dependencies:
     ```bash
     pip install -r requirements.txt
+    pip install aiohttp
+    pip install fake-useragent
     ```
 
 ## Usage
@@ -65,7 +67,7 @@ before starting the bot you must have your own initdata / queryid telegram! why 
 ```txt 
 query_id=xxxxxxxxx-Rxxxxuj&user=%7B%22id%22%3A1323733375%2C%22first_name%22%3A%22xxxx%22%2C%22last_name%22%3A%22%E7%9A%BF%20xxxxxx%22%2C%22username%22%3A%22xxxxx%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=xxxxx&hash=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
-9. add it to `tokens.txt` file or create it if you dont have one
+9. add it to `data.txt` file or create it if you dont have one
 
 
 You can add more and run the accounts in turn by entering a query id in new line like this:
