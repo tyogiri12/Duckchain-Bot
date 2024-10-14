@@ -1,15 +1,11 @@
 # DuckChain Auto Farming Bot 
 This bot will Quack or tap on the DuckChain telegram bot, support proxies and multi-account / multithread.
 
-REGISTER ⨠ [DUCKCHAIN_BOT](https://t.me/DuckChain_bot/quack?startapp=9nNT8YXo)
-
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
+REGISTER ⨠ [DUCKCHAIN_BOT](https://t.me/DuckChain_bot/quack?startapp=p9wkJSBL)
 
 ### This bot helpfull?  Please support me by buying me a coffee: 
 ```
-0x705C71fc031B378586695c8f888231e9d24381b4 - EVM
-TDTtTc4hSnK9ii1VDudZij8FVK2ZtwChja - TRON
-UQBy7ICXV6qFGeFTRWSpnMtoH6agYF3PRa5nufcTr3GVOPri - TON
+0xf86E74DB7AA1E535A7FD982f14ed84793a04a2c8 - EVM
 ```
 
 ## Features
@@ -17,7 +13,6 @@ UQBy7ICXV6qFGeFTRWSpnMtoH6agYF3PRa5nufcTr3GVOPri - TON
 - Multi Account / Threads Support
 - Proxy Support
 - Configurable via `config.json`
-- If you're looking for Duckchain Full Feature [[CLICK HERE](https://codeberg.org/nadirasaid8/duckfullberg)]
 
 ### Add configuration setting on `config.json` 
 
@@ -86,10 +81,7 @@ python main.py
 ```
 
 ## License
-This project is licensed under the `NONE` License.
-
-## Contact
-If you have any questions or suggestions, please feel free to contact us at [ https://t.me/DeeplChainSup ].
+This project is licensed under the TELEGRAM CHANNEL(https://t.me/Deeplchain) | License.
 
 
 
