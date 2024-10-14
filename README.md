@@ -39,11 +39,11 @@ Before installing and running this project, make sure you have the following pre
 ## Installation
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://codeberg.org/nadirasaid8/duckquackberg.git
+    git clone https://github.com/tyogiri12/Duckchain-Bot
     ```
 2. Go to the project directory:
     ```bash
-    cd duckquackberg
+    cd Duckchain-Bot
     ```
 3. Install the necessary dependencies:
     ```bash
